@@ -1,0 +1,5 @@
+Rooms entered: 0
+Items investigated: 0
+Wrong main door guesses: 0
+Wrong basement guesses: 0
+Wrong attic guesses: 0
